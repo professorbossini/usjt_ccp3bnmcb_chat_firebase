@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">usjt_ccp3bnmcb_chat_firebase</string>
+    <string name="dica_login">Digite seu login</string>
+    <string name="dica_senha">Digite sua senha</string>
+    <string name="quero_me_cadastrar">Quero me cadastrar</string>
+    <string name="data_nome">Em %s, %s diz:</string>
+    <string name="digite_sua_mensagem">Digite a sua mensagem</string>
+    <string name="usuario_criado">Usuário criado</string>
+    <string name="usuario_nao_criado">Usuário não pode ser criado</string>
+    <string name="cant_login">Não deu para logar, tente novamente depois</string>
+    <string name="msg_enviada">Mensagem enviada</string>
+</resources>
